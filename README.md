@@ -21,7 +21,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/ethanbaker/game-ai">
-    <img src="https://assets.ethanbaker.dev/files/6bb7645dea268d1b51ddd9fc4e4f78a9aa3ab33807355e88f86b443958a4d07f" alt="Logo" width="80" height="80">
+    <img src="./docs/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Game AI Exploration</h3>
@@ -58,7 +58,7 @@
 <!-- ABOUT -->
 ## About
 
-![Project demonstration image][product-screenshot]
+![Project demonstration image](./docs/demonstration.png)
 
 This project is the culmination of an introduction to game AI class I took at university. Throughout the course, I built up a game engine completely from scratch that was designed to show the effectiveness and performance of different artificial intelligence methods used in modern-day games.
 
@@ -155,8 +155,6 @@ Project Link: [https://github.com/ethanbaker/game-ai][project-url]
 [linkedin-url]: <https://linkedin.com/in/ethandbaker>
 [twitter-url]: <https://twitter.com/_ethanbaker>
 [project-url]: <https://github.com/ethanbaker/game-ai>
-
-[product-screenshot]: https://assets.ethanbaker.dev/files/e91a060a69c1689590883cfd253f90716efedf9b2acce78612ea17948f738fa9
 
 [conventional-commits-url]: <https://www.conventionalcommits.org/en/v1.0.0/#summary>
 [conventional-branches-url]: <https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops>
